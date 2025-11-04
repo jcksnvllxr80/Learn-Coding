@@ -1,6 +1,6 @@
 # Learn Coding
 
-A gentle, 20-day introduction to programming concepts designed for beginners. Each lesson takes just 5 minutes and builds foundational understanding through hands-on activities.
+A gentle introduction to programming concepts designed for beginners. Each lesson takes just 5 minutes and builds foundational understanding through hands-on activities.
 
 ## Core Concepts Covered
 
