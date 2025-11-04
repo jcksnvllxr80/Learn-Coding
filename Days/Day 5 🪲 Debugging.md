@@ -55,4 +55,4 @@ Mistakes are part of coding. Debugging means finding what went wrong and fixing 
 
 ---
 
-[[Day 4 ❔ Logic|< Day 4]] | [[Appendix - 📜 How to make a script|Appendix >]]
+[[Day 4 ❔ Logic|< Day 4]] | [[Day 6 📦 Variables|Day 6 >]]
