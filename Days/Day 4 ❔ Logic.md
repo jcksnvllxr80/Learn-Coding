@@ -1,4 +1,4 @@
-### “Making Choices with `If`”
+### "Making Choices with `If`"
 
 **Goal:** Learn that computers can make decisions — _if_ something is true, _then_ do something.  
 
@@ -7,10 +7,8 @@
 #### 🕐 **Total time: ≈ 5 minutes**
 
 **Step 1 (1 min): Introduce the idea**  
-Say:
 
-> “Computers don’t think like us, but they _can_ make choices if we tell them how.  
-> Today we’ll teach the computer to decide what to say.”
+Computers don't think like us, but they _can_ make choices if you tell them how. Today you'll teach the computer to decide what to say.
 
 ---
 
@@ -26,16 +24,13 @@ if answer == "yes":
 
 Run it.  
 Type **yes** when it asks.  
-Then run it again and type **no** — notice nothing happens.
+Then run it again and type **no** — nothing happens.
 
-Explain:
-
-> “The computer _checked_ what you typed.  
-> It only talked if your answer was ‘yes.’”
+The computer _checked_ what you typed. It only talked if your answer was 'yes.'
 
 ---
 
-**Step 3 (1 min): Add an ‘else’ choice**  
+**Step 3 (1 min): Add an 'else' choice**  
 Now type:
 
 ```python
@@ -52,20 +47,17 @@ Run it and try both answers.
 ---
 
 **Step 4 (1 min): Reflect**  
-Ask:
 
-> “What’s the word that made the computer _choose_?”  
-> Explain:  
-> “That word is `if`. It means: _if this is true, then do that._  
-> Computers can’t guess — we have to tell them every possibility.”
+What's the word that made the computer _choose_?
+
+That word is `if`. It means: _if this is true, then do that._ Computers can't guess — you have to tell them every possibility.
 
 ---
 
 ✅ **Takeaway:**
 
-> `if` tells the computer to _make a choice._  
-> Logic is just asking questions and reacting to answers.
+`if` tells the computer to _make a choice._ Logic is just asking questions and reacting to answers.
 
 ---
 
-[[Day 3 🔄️ Loops| Prev < ]] | [[Day 5 🪲 Debugging| > Next]]
+[[Day 3 🔄️ Loops|< Day 3]] | [[Day 5 🪲 Debugging|Day 5 >]]

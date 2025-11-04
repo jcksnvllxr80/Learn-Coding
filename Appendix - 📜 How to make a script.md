@@ -1,13 +1,14 @@
 ## What is a script
-a list of commands that get ran in order
-## prerequisites
-- python
+A list of commands that get run in order.
 
-the command to run the script
+## Prerequisites
+- Python
+
+The command to run the script:
 `python <name-of-script>.py`
 
 ## Breakdown
-Let's breakdown each part of `python <name-of-script>.py`:
+Each part of `python <name-of-script>.py`:
 
 **1. `python`**
 
@@ -40,7 +41,7 @@ python hello.py
 - `python` = "Hey Python program!"
 - `hello.py` = "Please run this file for me!"
 
-It's like telling your friend "Hey Sarah, read this book called 'Adventure Story'" - you're telling who should do something (`python`) and what they should do it with (`your-file.py`).
+This is like telling your friend "Hey Sarah, read this book called 'Adventure Story'" - you're telling who should do something (`python`) and what they should do it with (`your-file.py`).
 
 ---
 
